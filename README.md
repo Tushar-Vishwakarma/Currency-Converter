@@ -1,4 +1,5 @@
 # Currency-Converter
+![Currency Converter](https://github.com/user-attachments/assets/1a5592f2-1aa4-416c-bd3d-f66979e2c037)
 
 ## **README.md**
 
